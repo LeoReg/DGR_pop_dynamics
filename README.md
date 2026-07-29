@@ -2,14 +2,17 @@ Documents for figures of both the main text and the Supplementary Materials (SMs
 
 -main: 
 
-      * Fast_dynamics_of_the_VR_population_at_fixed_TR.ipynb: figures associated to "Fast dynamics of the VR population at fixed TR" of the main text.
+      * Fig2.ipynb: figures associated to Fig 2 of the main text.
 
-      * Slow_dynamics_of_the_TR.ipynb: figures associated to "Slow dynamics of the TR" of the main text.
+      * Fig3.ipynb: figures associated to Fig. 3 of the main text.
 
+      * Fig4.ipynb: figures associated to Fig. 4 of the main text.
 -SM: 
 
-     * Sec_2.ipynb: Code for plot of Fig. S1 of the SM. 
+     * SM_S2: Code for plot of figures in section 2.
      
-     * Sec_3.ipynb: Code for plot of Fig S2 to S7 of the SM.
+     * SM_S4: Code for plot of figures in section 4.
      
-     * Sec_4.ipynb: Code for plot of Fig S9 to S14 of the SM.
+     * SM_S5: Code for plot of figures in section 5.
+
+     * SM_S6: Code for plot of figures in section 6.
